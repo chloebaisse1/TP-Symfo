@@ -1,3 +1,11 @@
 body {
-    background-color: skyblue;
+    background-color: #6ea196;
+}
+h1 {
+    text-align: center;
+    margin: 3rem;
+}
+
+p {
+    text-align: center;
 }
